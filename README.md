@@ -27,15 +27,15 @@ In this task, I will use the Teachable Machine program to enable the robot to re
 
 ##### - After completing the model training, we test it on examples and see if it will match with a high percentage with similar classes or not.
 
-First Class:
+First Class: The Output was 98% for Class 1.
 
   ![T1](https://github.com/akfagi/Task2_AI_and_Robotics/assets/139698529/1125da59-187c-4430-9985-c518f459ee2f)
 
- Second Class:
+ Second Class: The Output was 99% for Class 2.
  
     ![T2](https://github.com/akfagi/Task2_AI_and_Robotics/assets/139698529/97ae2ad1-3293-4df6-9c3b-9d1b11b48091)
 
- Third Class:
+ Third Class: The Output was 98% for Class 3.
  
   ![T3](https://github.com/akfagi/Task2_AI_and_Robotics/assets/139698529/9e977044-69bb-4335-8391-03364ce4c820)
 
